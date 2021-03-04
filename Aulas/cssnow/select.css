@@ -1,0 +1,31 @@
+body{
+    background-color:#f1faee;
+}
+
+
+h1,h2{
+    color:#1d3557;
+}
+
+button{
+    font: 30px;
+    background-color:#a8dadc ;
+}
+#signup{
+    background-color:#1d3557 ;
+    color: #f1faee;
+}
+span{
+    color:brown;
+}
+.tag{
+    background-color:red;
+    color: indigo;
+}
+ section span a{
+    color:green;
+}
+
+footer > a{
+    color:grey;
+}
