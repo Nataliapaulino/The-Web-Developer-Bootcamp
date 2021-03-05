@@ -29,3 +29,23 @@ span{
 footer > a{
     color:grey;
 }
+input[type="password"]{
+    color: greenyellow;
+}
+a[href*="google"]{
+    color: magenta;
+}
+
+.post button:hover{
+    background-color: #e63946;
+    color: whitesmoke;
+}
+a:hover{
+    text-decoration: overline;
+}
+ .post button:active{
+    background-color:#02c39a ;
+}
+.post:nth-of-type(3n) {
+    background-color:#dfe8dc ;
+}
